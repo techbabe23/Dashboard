@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2024 techbabe23
  */
 
 
@@ -21,11 +21,11 @@
      */
   
     --imperial-red_12: hsla(357, 86%, 57%, 0.12);
-    --pacific-blue_12: hsla(188, 78%, 41%, 0.12);
+    --pacific-blue_12: hsla(198, 88%, 51%, 0.12);
     --davys-gray_12: hsla(210, 9%, 31%, 0.12);
     --imperial-red: hsl(357, 86%, 57%);
     --sonic-sliver: hsl(0, 0%, 47%);
-    --pacific-blue: hsl(188, 78%, 41%);
+    --pacific-blue: hsl(178, 88%, 51%);
     --blue-ryb_12: hsla(220, 100%, 50%, 0.12);
     --space-cadet: hsl(220, 41%, 20%);
     --eerie-black: hsl(214, 10%, 13%);
@@ -82,7 +82,7 @@
      * shadow
      */
   
-    --shadow-1: 0 12px 20px hsla(210, 10%, 23%, 0.07);
+    --shadow-1: 0 12px 20px hsla(250, 42%, 42%, 0.07);
     --shadow-2: 0 2px 10px hsla(0, 0%, 0%, 0.04);
     --shadow-3: 0 2px 20px var(--black_08);
   
